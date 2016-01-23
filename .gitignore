@@ -4,3 +4,7 @@ settings_local.py
 *.pyc
 *.swp
 *~
+
+.idea/
+.pyenv/
+.DS_Store
